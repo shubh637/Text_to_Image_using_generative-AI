@@ -17,4 +17,4 @@ To get started with this project, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/text-to-image-generation.git
-   cd text-to-image-generation
+   cd text-to-image-generation.git
