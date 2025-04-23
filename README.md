@@ -10,4 +10,3 @@ This repository contains a project for generating images from textual descriptio
 - **Pre-trained Models**: Utilize pre-trained models for quick and efficient image generation.
 - **Custom Training**: Option to fine-tune or train models on your own dataset for specialized tasks.
 
-l
